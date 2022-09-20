@@ -1,12 +1,10 @@
 {
-  "lpkg": {
-    "ncspot": {
+  "ncspot": {
       "version": "0.10.0",
       "icono": "https://github.com/hrkfdn/ncspot/raw/main/images/logo.svg",
       "size" : "17.17MiB"
       "description" : "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.",
       "web" : "https://github.com/hrkfdn/ncspot",
       "remoto": true,
-    },
-  }
+  },
 }
