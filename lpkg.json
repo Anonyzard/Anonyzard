@@ -1,0 +1,74 @@
+{
+    "assaultcube": {
+        "name": "assaultcube",
+        "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/assaultcube-1.3.0.2-1.lpkg",
+        "version": "1.3.0.2",
+        "icon": "https://github.com/assaultcube/AC/blob/master/packages/misc/icon.png",
+        "size": "55.65MiB",
+        "description": "FREE, multiplayer, first-person shooter game, based on the CUBE engine",
+        "web": "https://assault.cubers.net/",
+        "mantainer": "Nico (Locos Por Linux)",
+        "license": "GPLv2",
+        "remote": true
+    },
+    "brave_browser": {
+        "name": "brave",
+        "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/brave_browser-1.41.94-2.lpkg",
+        "version": "1.41.94",
+        "icon": "https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg",
+        "size": "287.9MiB",
+        "description": "Navegador web basado en chromium, ha ganado popularidad ultimamente gracias a su uso de recursos y opciones",
+        "web": "https://brave.com/",
+        "mantainer": "Nico (Locos por Linux)",
+        "license": "MPL 2.0",
+        "remote": true
+    },
+    "bubblegum": {
+        "name": "bubblegum",
+        "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/bubblegum-1.0-1.lpkg",
+        "version": "1.0",
+        "icon": "https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg",
+        "size": "45.18MiB",
+        "description": "Plataformas 2D y Puzzles, eres una goma de mascar que tiene que agarrar llaves y escapar",
+        "web": "No disponible",
+        "mantainer": "Nico (Locos por Linux)",
+        "license": "GPLv2",
+        "remote": true
+    },
+    "davegnukem": {
+        "name": "davegnukem",
+        "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/davegnukem-1.0.1-1.lpkg",
+        "version": "1.0.1",
+        "icon": "https://itzselenux.gitlab.io/lpkgindex/res/logo/davegnukem.png",
+        "size": "66.0MiB",
+        "description": "Open source retro-style 2D scrolling platform shooter, inspired by and similar to Duke Nukem 1",
+        "web": "https://djoffe.com/gnukem/",
+        "mantainer": "Nico (Locos Por Linux)",
+        "license": "GPLv2",
+        "remote": true
+    },
+    "firefox": {
+        "name": "firefox",
+        "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/firefox_es-105.0.1-1.lpkg",
+        "version": "105.0.1",
+        "icon": "https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg",
+        "size": "229.1MiB",
+        "description": "Navegador web de c\u00f3digo abierto desarrollado por la fundaci\u00f3n Mozilla",
+        "web": "https://www.mozilla.org/firefox",
+        "mantainer": "Nico (Locos por Linux)",
+        "license": "MPL",
+        "remote": true
+    },
+    "geany": {
+        "name": "geany",
+        "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/geany-1.38-1.lpkg",
+        "version": "1.38",
+        "icon": "https://www.geany.org/static/img/geany.svg",
+        "size": "42.57MiB",
+        "description": "Powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow",
+        "web": "https://www.geany.org/",
+        "mantainer": "Nico (Locos Por Linux)",
+        "license": "GPLv3",
+        "remote": true
+    }
+}

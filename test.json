@@ -1,11 +1,26 @@
 {
-  "name" : "ncspot",
   "ncspot": {
-      "version": "0.10.0",
-      "icono": "https://github.com/hrkfdn/ncspot/raw/main/images/logo.svg",
-      "size" : "17.17MiB",
-      "description" : "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.",
-      "web" : "https://github.com/hrkfdn/ncspot",
-      "remoto" : true
+    "name" : "ncspot",
+    "package": "https://gitlab.com/loc-os_linux/lpkg32bit/-/raw/main/ncspot-0.10.0-1_i686.lpkg",
+    "version": "0.10.0",
+    "icon":"https://github.com/hrkfdn/ncspot/raw/main/images/logo.svg",
+    "size": "17.17MiB",
+    "description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.",
+    "web": "https://github.com/hrkfdn/ncspot",
+    "mantainer": "Anonyzard",
+    "license": "MIT",
+    "remote": true
+  },
+  "firefox" : {
+    "name": "firefox",
+    "package": "https://gitlab.com/loc-os_linux/lpkg32bit/-/raw/main/firefox_es-104.0.2-1_i386.lpkg",
+    "version": "104.0.2",
+    "icon": "https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg",
+    "size": "242.1MiB",
+    "description": "Navegador web de código abierto desarrollado por la fundación Mozilla",
+    "web": "https://www.mozilla.org/firefox/",
+    "mantainer": "Nico (Locos por Linux)",
+    "license": "MPL",
+    "remote": true
   }
 }
