@@ -64,7 +64,7 @@
             "name": "geany",
             "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/geany-1.38-1.lpkg",
             "version": "1.38",
-            "icon": "https://www.geany.org/static/img/geany.svg",
+            "icon": "https://download.logo.wine/logo/Geany/Geany-Logo.wine.png",
             "size": "42.57MiB",
             "description": "Powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow",
             "web": "https://www.geany.org/",
