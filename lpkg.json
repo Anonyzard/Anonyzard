@@ -10,7 +10,8 @@
             "web": "https://assault.cubers.net/",
             "mantainer": "Nico (Locos Por Linux)",
             "license": "GPLv2",
-            "remote": true
+            "remote": true,
+            "dependencies": ""
         },
         {
             "name": "brave",
@@ -22,7 +23,8 @@
             "web": "https://brave.com/",
             "mantainer": "Nico (Locos por Linux)",
             "license": "MPL 2.0",
-            "remote": true
+            "remote": true,
+            "dependencies": ""
         },
         {
             "name": "bubblegum",
@@ -34,7 +36,8 @@
             "web": "No disponible",
             "mantainer": "Nico (Locos por Linux)",
             "license": "GPLv2",
-            "remote": true
+            "remote": true,
+            "dependencies": ""
         },
         {
             "name": "davegnukem",
@@ -46,7 +49,8 @@
             "web": "https://djoffe.com/gnukem/",
             "mantainer": "Nico (Locos Por Linux)",
             "license": "GPLv2",
-            "remote": true
+            "remote": true,
+            "dependencies": ""
         },
         {
             "name": "firefox",
@@ -58,19 +62,99 @@
             "web": "https://www.mozilla.org/firefox",
             "mantainer": "Nico (Locos por Linux)",
             "license": "MPL",
-            "remote": true
+            "remote": true,
+            "dependencies": ""
         },
         {
             "name": "geany",
             "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/geany-1.38-1.lpkg",
             "version": "1.38",
-            "icon": "https://download.logo.wine/logo/Geany/Geany-Logo.wine.png",
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/0/05/Geany_logo.png",
             "size": "42.57MiB",
             "description": "Powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow",
             "web": "https://www.geany.org/",
             "mantainer": "Nico (Locos Por Linux)",
             "license": "GPLv3",
-            "remote": true
+            "remote": true,
+            "dependencies": ""
+        },
+        {
+            "name": "gzdoom",
+            "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/gzdoom-4.8.2-3.lpkg",
+            "version": "4.8.2",
+            "icon": "https://itzselenux.gitlab.io/lpkgindex/res/logo/gzdoom.png",
+            "size": "31.43MiB",
+            "description": "Port del Motor de Doom, adaptado a sistemas modernos",
+            "web": "https://www.zdoom.org/",
+            "mantainer": "Nico (Locos Por Linux)",
+            "license": "GPLv2",
+            "remote": true,
+            "dependencies": ""
+        },
+        {
+            "name": "icewm",
+            "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/icewm-2.9.8-3.lpkg",
+            "version": "2.9.8",
+            "icon": "https://itzselenux.gitlab.io/lpkgindex/res/categories/lpkg64.png",
+            "size": "25.7MiB",
+            "description": "Gestor de ventanas de mosaico ligero y facil de usar",
+            "web": "https://ice-wm.org/",
+            "mantainer": "RafaCG (Linuxero Loco)",
+            "license": "GPLv2",
+            "remote": true,
+            "dependencies": ""
+        },
+        {
+            "name": "infinitetux",
+            "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/infinitetux-1.1-1.lpkg",
+            "version": "1.1",
+            "icon": "https://itzselenux.gitlab.io/lpkgindex/res/logo/itux.png",
+            "size": "48.2MiB",
+            "description": "InfiniteTux es un juego estilo Super Mario Bros inspirado en SuperTux, con muchas cosas divertidas para hacer",
+            "web": "https://github.com/qbancoffee/infinite-tux",
+            "mantainer": "Nico (Locos Por Linux)",
+            "license": "GPLv2",
+            "remote": true,
+            "dependencies": ""
+        },
+        {
+            "name": "jgmenu",
+            "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/jgmenu-4.3.0.1-1.lpkg",
+            "version": "4.3.0.1",
+            "icon": "https://camo.githubusercontent.com/11b7b4e85f6903cb40b748e72ade36de9db36204031a7e1e507adc6253e846ee/68747470733a2f2f692e696d6775722e636f6d2f6c3875614256692e706e67",
+            "size": "490.0KiB",
+            "description": "Menu de aplicaciones alternativo personalizable",
+            "web": "https://github.com/johanmalm/jgmenu",
+            "mantainer": "Nico (Locos Por Linux)",
+            "license": "GPLv2",
+            "remote": true,
+            "dependencies": ""
+        },
+        {
+            "name": "leafpad",
+            "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/leafpad-0.8.17-1.lpkg",
+            "version": "0.8.17",
+            "icon": "http://tarot.freeshell.org/leafpad/leafpadle.png",
+            "size": "740.0KiB",
+            "description": "Leafpad is a simple GTK+ text editor that emphasizes simplicity",
+            "web": "http://tarot.freeshell.org/leafpad/",
+            "mantainer": "Nico (Locos Por Linux)",
+            "license": "GPL",
+            "remote": true,
+            "dependencies": ""
+        },
+        {
+            "name": "megamario",
+            "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/megamario-1.7-1.lpkg",
+            "version": "1.7",
+            "icon": "https://itzselenux.gitlab.io/lpkgindex/res/logo/megamario.png",
+            "size": "5.20MiB",
+            "description": "FanGame inspirado en Super Mario World",
+            "web": "http://mmario.sourceforge.net/",
+            "mantainer": "Nico (Locos Por Linux)",
+            "license": "GPLv2",
+            "remote": true,
+            "dependencies": "libsdl-mixer1.2 libsdl-ttf2.0-0 libsdl-image1.2"
         }
     ]
 }
