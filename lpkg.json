@@ -95,7 +95,7 @@
             "name": "icewm",
             "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/icewm-2.9.8-3.lpkg",
             "version": "2.9.8",
-            "icon": "https://itzselenux.gitlab.io/lpkgindex/res/categories/lpkg64.png",
+            "icon": "http://66.175.235.209:27686/icewm-icon.png",
             "size": "25.7MiB",
             "description": "Gestor de ventanas de mosaico ligero y facil de usar",
             "web": "https://ice-wm.org/",
