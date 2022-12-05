@@ -10,8 +10,8 @@
             "web": "https://assault.cubers.net/",
             "mantainer": "Nico (Locos Por Linux)",
             "license": "GPLv2",
-            "remote": true,
-            "dependencies": ""
+            "screenshot": "https://itzselenux.gitlab.io/lpkgindex/res/bg/cube.png",
+            "dependencies": "libsdl-mixer1.2"
         },
         {
             "name": "brave",
@@ -23,7 +23,7 @@
             "web": "https://brave.com/",
             "mantainer": "Nico (Locos por Linux)",
             "license": "MPL 2.0",
-            "remote": true,
+            "screenshot": "https://github.com/Anonyzard/Anonyzard/raw/main/screenshots/brave.png",
             "dependencies": ""
         },
         {
@@ -36,7 +36,7 @@
             "web": "No disponible",
             "mantainer": "Nico (Locos por Linux)",
             "license": "GPLv2",
-            "remote": true,
+            "screenshot": "https://itzselenux.gitlab.io/lpkgindex/res/bg/bubblegum.png",
             "dependencies": ""
         },
         {
@@ -49,8 +49,8 @@
             "web": "https://djoffe.com/gnukem/",
             "mantainer": "Nico (Locos Por Linux)",
             "license": "GPLv2",
-            "remote": true,
-            "dependencies": ""
+            "screenshot": "https://itzselenux.gitlab.io/lpkgindex/res/bg/davegnukem.png",
+            "dependencies": "libsdl-mixer1.2"
         },
         {
             "name": "firefox",
@@ -62,7 +62,7 @@
             "web": "https://www.mozilla.org/firefox",
             "mantainer": "Nico (Locos por Linux)",
             "license": "MPL",
-            "remote": true,
+            "screenshot": "https://itzselenux.gitlab.io/lpkgindex/res/bg/firefox.png",
             "dependencies": ""
         },
         {
@@ -75,7 +75,7 @@
             "web": "https://www.geany.org/",
             "mantainer": "Nico (Locos Por Linux)",
             "license": "GPLv3",
-            "remote": true,
+            "screenshot": "https://itzselenux.gitlab.io/lpkgindex/res/bg/geany.png",
             "dependencies": ""
         },
         {
@@ -88,7 +88,7 @@
             "web": "https://www.zdoom.org/",
             "mantainer": "Nico (Locos Por Linux)",
             "license": "GPLv2",
-            "remote": true,
+            "screenshot": "https://itzselenux.gitlab.io/lpkgindex/res/bg/gzdoom.png",
             "dependencies": ""
         },
         {
@@ -101,7 +101,7 @@
             "web": "https://ice-wm.org/",
             "mantainer": "RafaCG (Linuxero Loco)",
             "license": "GPLv2",
-            "remote": true,
+            "screenshot": "https://itzselenux.gitlab.io/lpkgindex/res/bg/icewm.png",
             "dependencies": ""
         },
         {
@@ -114,7 +114,7 @@
             "web": "https://github.com/qbancoffee/infinite-tux",
             "mantainer": "Nico (Locos Por Linux)",
             "license": "GPLv2",
-            "remote": true,
+            "screenshot": "https://itzselenux.gitlab.io/lpkgindex/res/bg/itux.png",
             "dependencies": ""
         },
         {
@@ -127,7 +127,7 @@
             "web": "https://github.com/johanmalm/jgmenu",
             "mantainer": "Nico (Locos Por Linux)",
             "license": "GPLv2",
-            "remote": true,
+            "screenshot": "https://itzselenux.gitlab.io/lpkgindex/res/bg/jgmenu.png",
             "dependencies": ""
         },
         {
@@ -140,7 +140,7 @@
             "web": "http://tarot.freeshell.org/leafpad/",
             "mantainer": "Nico (Locos Por Linux)",
             "license": "GPL",
-            "remote": true,
+            "screenshot": "https://itzselenux.gitlab.io/lpkgindex/res/bg/cube.png",
             "dependencies": ""
         },
         {
@@ -153,7 +153,7 @@
             "web": "http://mmario.sourceforge.net/",
             "mantainer": "Nico (Locos Por Linux)",
             "license": "GPLv2",
-            "remote": true,
+            "screenshot": "https://itzselenux.gitlab.io/lpkgindex/res/bg/megamario.png",
             "dependencies": "libsdl-mixer1.2 libsdl-ttf2.0-0 libsdl-image1.2"
         }
     ]
