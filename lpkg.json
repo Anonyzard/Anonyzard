@@ -80,7 +80,7 @@
         },
         {
             "name": "dday_normandy",
-            "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/dday_normandy-5.03-1.lpkg",
+            "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/dday_normandy-5.03-2.lpkg",
             "version": "5.03",
             "icon": "https://juegos.locosporlinux.com/images/page2-img6.jpg",
             "size": "523.4MiB",
