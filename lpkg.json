@@ -12,6 +12,18 @@
             "license": "GPLv2",
             "screenshot": "https://itzselenux.gitlab.io/lpkgindex/res/bg/cube.png",
             "dependencies": "libsdl-mixer1.2"
+        },{
+        	"name": "balenaetcher",
+            "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/balenaetcher-1.12.6-1.lpkg",
+            "version": "1.12.6",
+            "icon": "https://github.com/balena-io/etcher/raw/master/assets/icon.png",
+            "size": "218.2MiB",
+            "description": "Flash OS images to SD cards & USB drives, safely and easily",
+            "web": "https://www.balena.io/etcher/",
+            "mantainer": "Nico (Locos por Linux)",
+            "license": "Apache 2.0",
+            "screenshot": "https://github.com/Anonyzard/Anonyzard/raw/main/screenshots/balenaetcher.png",
+            "dependencies": ""
         },
         {
             "name": "brave",
@@ -90,13 +102,25 @@
             "license": "GPLv2",
             "screenshot": "http://ddaydev.com/site/database/potm/02-2012.jpg",
             "dependencies": ""
+        },{
+            "name": "easyupdate",
+            "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/easyupdate-0.1-1.lpkg",
+            "version": "0.1",
+            "icon": "https://github.com/Anonyzard/Anonyzard/raw/main/logos/easy-update.png",
+            "size": "20.0KiB",
+            "description": "A easy to use script for apt updates",
+            "web": "https://loc-os.sourceforge.io",
+            "mantainer": "Nico (Locos por Linux)",
+            "license": "GPLv3",
+            "screenshot": "https://github.com/Anonyzard/Anonyzard/raw/main/screenshots/easyupdate.png",
+            "dependencies": ""
         },
         {
             "name": "firefox",
-            "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/firefox_es-107.0.1-1.lpkg",
-            "version": "107.0.1",
+            "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/firefox_es-108.0.1-1.lpkg",
+            "version": "108.0.1",
             "icon": "https://design.firefox.com/product-identity/firefox/firefox/firefox-logo.png",
-            "size": "231.3MiB",
+            "size": "230.7MiB",
             "description": "Navegador web de código abierto desarrollado por la fundación Mozilla",
             "web": "https://www.mozilla.org/firefox",
             "mantainer": "Nico (Locos por Linux)",
@@ -158,10 +182,10 @@
         },
         {
             "name": "jgmenu",
-            "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/jgmenu-4.3.0.1-1.lpkg",
-            "version": "4.3.0.1",
+            "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/jgmenu-4.4.1-2.lpkg",
+            "version": "4.4.1",
             "icon": "https://camo.githubusercontent.com/11b7b4e85f6903cb40b748e72ade36de9db36204031a7e1e507adc6253e846ee/68747470733a2f2f692e696d6775722e636f6d2f6c3875614256692e706e67",
-            "size": "490.0KiB",
+            "size": "1.0MiB",
             "description": "Menu de aplicaciones alternativo personalizable",
             "web": "https://github.com/johanmalm/jgmenu",
             "mantainer": "Nico (Locos por Linux)",
@@ -297,6 +321,18 @@
             "mantainer": "Anonyzard",
             "license": "GPLv2",
             "screenshot": "https://github.com/Anonyzard/Anonyzard/raw/main/screenshots/ppsspp.png",
+            "dependencies": ""
+        },{
+            "name": "qemu",
+            "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/qemu-7.1.0-1.lpkg",
+            "version": "7.1.0",
+            "icon": "https://github.com/Anonyzard/Anonyzard/raw/main/logos/qemu.png",
+            "size": "666.7MiB",
+            "description": "A generic and open source machine emulator and virtualizer",
+            "web": "https://www.qemu.org/",
+            "mantainer": "CODEHEX4EVER",
+            "license": "GPLv2",
+            "screenshot": "https://www.qemu.org/screenshots/800px-Qemu_linux.png",
             "dependencies": ""
         },
         {
