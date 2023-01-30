@@ -117,10 +117,10 @@
         },
         {
             "name": "firefox",
-            "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/firefox_es-108.0.1-1.lpkg",
-            "version": "108.0.1",
+            "package": "https://gitlab.com/loc-os_linux/lpkg64bit/-/raw/main/firefox_es-109.0-1.lpkg",
+            "version": "109.0",
             "icon": "https://design.firefox.com/product-identity/firefox/firefox/firefox-logo.png",
-            "size": "230.7MiB",
+            "size": "233.7MiB",
             "description": "Navegador web de código abierto desarrollado por la fundación Mozilla",
             "web": "https://www.mozilla.org/firefox",
             "mantainer": "Nico (Locos por Linux)",
